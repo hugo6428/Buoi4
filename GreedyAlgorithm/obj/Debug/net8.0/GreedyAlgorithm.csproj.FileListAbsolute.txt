@@ -1,0 +1,14 @@
+D:\nhat\HKHè\PTTKTT\Buoi4\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\net8.0\GreedyAlgorithm.exe
+D:\nhat\HKHè\PTTKTT\Buoi4\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\net8.0\GreedyAlgorithm.deps.json
+D:\nhat\HKHè\PTTKTT\Buoi4\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\net8.0\GreedyAlgorithm.runtimeconfig.json
+D:\nhat\HKHè\PTTKTT\Buoi4\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\net8.0\GreedyAlgorithm.dll
+D:\nhat\HKHè\PTTKTT\Buoi4\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\net8.0\GreedyAlgorithm.pdb
+D:\nhat\HKHè\PTTKTT\Buoi4\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\net8.0\GreedyAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\nhat\HKHè\PTTKTT\Buoi4\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\net8.0\GreedyAlgorithm.AssemblyInfoInputs.cache
+D:\nhat\HKHè\PTTKTT\Buoi4\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\net8.0\GreedyAlgorithm.AssemblyInfo.cs
+D:\nhat\HKHè\PTTKTT\Buoi4\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\net8.0\GreedyAlgorithm.csproj.CoreCompileInputs.cache
+D:\nhat\HKHè\PTTKTT\Buoi4\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\net8.0\GreedyAlgorithm.dll
+D:\nhat\HKHè\PTTKTT\Buoi4\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\net8.0\refint\GreedyAlgorithm.dll
+D:\nhat\HKHè\PTTKTT\Buoi4\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\net8.0\GreedyAlgorithm.pdb
+D:\nhat\HKHè\PTTKTT\Buoi4\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\net8.0\GreedyAlgorithm.genruntimeconfig.cache
+D:\nhat\HKHè\PTTKTT\Buoi4\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\net8.0\ref\GreedyAlgorithm.dll
